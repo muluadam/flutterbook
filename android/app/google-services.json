@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533892696441",
+    "firebase_url": "https://book-cea1a.firebaseio.com",
+    "project_id": "book-cea1a",
+    "storage_bucket": "book-cea1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533892696441:android:4284b2b78f22db236247a8",
+        "android_client_info": {
+          "package_name": "com.instant.flutterbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533892696441-ac9nh85lr0bgvbhprgn630muhl7tclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4liUaN-t0S70qsfTkX7pEKGt3wAGHZuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533892696441-ac9nh85lr0bgvbhprgn630muhl7tclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
